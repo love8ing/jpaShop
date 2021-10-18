@@ -30,7 +30,7 @@
           <v-card-actions>
             <v-spacer></v-spacer>
             <v-btn color="primary" @click="getList">로그인</v-btn>
-            <v-btn color="primary" @click="clickForSignUp">회원가입</v-btn>
+            <v-btn color="primary" @click="clickForSignUp">회원가입 </v-btn>
           </v-card-actions>
         </v-card>
       </v-flex>
